@@ -1,18 +1,20 @@
 html 
 { 
-	background-image: url("../img/restaurant.png");
 	font-family: 'Oswald', sans-serif;
+	background-image: url("../img/restaurant.png");
 
 }
 
-h1 
+#main_box
 {
-	text-decoration: underline;
-	color: rgb(176,87,114);
-	text-align: center;
+	background-image: url("../img/restaurant.png");
+	height: 100%;
+	width: 60%;
+	margin: 0px 20%;
+	float: center;
 }
 
-h2
+.header
 {
 	text-decoration: underline;
 	color: rgb(176,87,114);
@@ -28,7 +30,24 @@ ul
 #todo_add
 {
 	margin: auto;
+	width: 125px;
 }
 
-label {text-align: center;}
+#left_box
+{
+	float: left;
+}
+
+#right_box
+{
+	float: right;
+}
+
+.box
+{
+	background: rgb(176,87,114);
+	height: 100%;
+	width: 20%;
+	margin: 0px 0px;
+}
 
