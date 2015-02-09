@@ -5,6 +5,11 @@ html
 
 }
 
+li
+{
+	list-style-image: url("../img/kitten_headshot.png");
+}
+
 #main_box
 {
 	background-image: url("../img/restaurant.png");

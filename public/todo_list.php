@@ -19,10 +19,10 @@
 				</em>
 			</h1>
 			<ul>
-				<li>Write this page</li>
-				<li>Finish today's class</li>
-				<li>Write up notes</li>
-				<li>Go home</li>
+				<li>Find</li>
+				<li>More</li>
+				<li>Kitten</li>
+				<li>Pictures</li>
 			</ul>
 			<div id="todo_add">
 				<form method="POST" action="/todo_list.php">
