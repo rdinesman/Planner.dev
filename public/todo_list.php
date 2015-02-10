@@ -9,8 +9,8 @@
 		<title>TODO List</title>
 		<link href='http://fonts.googleapis.com/css?family=Oswald:400,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" type="text/css" href="/css/site.css">
-	</head>
 	<body>
+			<script type="text/javascript" src="js/todo.js"></script>
 			<div class="box" id="left_box"></div>
 			<div class="box" id="right_box"></div>
 			<h1 class="header">
